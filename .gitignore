@@ -84,3 +84,5 @@ iOSInjectionProject/
 *.xcworkspacedata
 
 TCAExample/TCAExample.xcodeproj/project.xcworkspace/xcshareddata/
+
+TCAExample/.DS_Store
